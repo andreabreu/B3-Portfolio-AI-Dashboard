@@ -2,6 +2,12 @@
 
 Portal web para upload de extratos `.xlsx` da B3, consolidação da carteira, enriquecimento com dados de mercado e geração de insights com IA.
 
+## Preview
+
+<p align="center">
+  <img src="./demo.png" alt="Preview da aplicação" width="900" />
+</p>
+
 ## Funcionalidades
 
 - Upload de arquivo `.xlsx` de posição da B3
